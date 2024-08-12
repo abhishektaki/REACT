@@ -1,0 +1,13 @@
+/*#heading{
+    color:rgb(38, 137, 164); 
+}
+    */
+body{
+    background-color: rgb(58, 74, 75);
+}
+#parent{
+    color: blue;
+}
+#child{
+    color: seashell;
+}
